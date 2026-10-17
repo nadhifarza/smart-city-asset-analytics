@@ -1,0 +1,9 @@
+report_id,asset_type,district,days_to_resolve,urgency_level,status
+R001,Pohon Rindang,Kecamatan Barat,12,High,Resolved
+R002,Lampu Jalan,Kecamatan Timur,3,Medium,Resolved
+R003,Taman Bermain,Kecamatan Utara,15,High,Pending
+R004,Pohon Rindang,Kecamatan Selatan,2,Low,Resolved
+R005,Lampu Jalan,Kecamatan Barat,8,High,Resolved
+R006,Fasilitas Air,Kecamatan Timur,14,Medium,Pending
+R007,Taman Bermain,Kecamatan Selatan,1,Low,Resolved
+R008,Lampu Jalan,Kecamatan Utara,9,High,Resolved
